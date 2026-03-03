@@ -20,3 +20,8 @@ h3 {
     color: #28A745;
     font-family: 'Georgia', serif;
 }
+p {
+    color: #555;
+    font-family: 'Verdana', sans-serif;
+    margin-bottom: 15px;
+}
